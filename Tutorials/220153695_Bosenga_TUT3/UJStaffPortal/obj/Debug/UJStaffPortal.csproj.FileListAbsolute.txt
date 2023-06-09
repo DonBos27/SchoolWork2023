@@ -1,0 +1,16 @@
+C:\Users\Hp\Desktop\TutorialsDsw3a\220153695_Bosenga_TUT3\UJStaffPortal\bin\Debug\UJStaffPortal.exe.config
+C:\Users\Hp\Desktop\TutorialsDsw3a\220153695_Bosenga_TUT3\UJStaffPortal\bin\Debug\UJStaffPortal.exe
+C:\Users\Hp\Desktop\TutorialsDsw3a\220153695_Bosenga_TUT3\UJStaffPortal\bin\Debug\UJStaffPortal.pdb
+C:\Users\Hp\Desktop\TutorialsDsw3a\220153695_Bosenga_TUT3\UJStaffPortal\obj\Debug\UJStaffPortal.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\TutorialsDsw3a\220153695_Bosenga_TUT3\UJStaffPortal\obj\Debug\UJStaffPortal.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\Desktop\TutorialsDsw3a\220153695_Bosenga_TUT3\UJStaffPortal\obj\Debug\UJStaffPortal.Form1.resources
+C:\Users\Hp\Desktop\TutorialsDsw3a\220153695_Bosenga_TUT3\UJStaffPortal\obj\Debug\UJStaffPortal.Properties.Resources.resources
+C:\Users\Hp\Desktop\TutorialsDsw3a\220153695_Bosenga_TUT3\UJStaffPortal\obj\Debug\UJStaffPortal.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\TutorialsDsw3a\220153695_Bosenga_TUT3\UJStaffPortal\obj\Debug\UJStaffPortal.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\TutorialsDsw3a\220153695_Bosenga_TUT3\UJStaffPortal\obj\Debug\UJStaffPortal.exe
+C:\Users\Hp\Desktop\TutorialsDsw3a\220153695_Bosenga_TUT3\UJStaffPortal\obj\Debug\UJStaffPortal.pdb
+C:\Users\Hp\Desktop\TutorialsDsw3a\220153695_Bosenga_TUT3\UJStaffPortal\bin\Debug\BusinessLayer.dll
+C:\Users\Hp\Desktop\TutorialsDsw3a\220153695_Bosenga_TUT3\UJStaffPortal\bin\Debug\DataLayer.dll
+C:\Users\Hp\Desktop\TutorialsDsw3a\220153695_Bosenga_TUT3\UJStaffPortal\bin\Debug\BusinessLayer.pdb
+C:\Users\Hp\Desktop\TutorialsDsw3a\220153695_Bosenga_TUT3\UJStaffPortal\bin\Debug\DataLayer.pdb
+C:\Users\Hp\Desktop\TutorialsDsw3a\220153695_Bosenga_TUT3\UJStaffPortal\obj\Debug\UJStaffPortal.csproj.CopyComplete

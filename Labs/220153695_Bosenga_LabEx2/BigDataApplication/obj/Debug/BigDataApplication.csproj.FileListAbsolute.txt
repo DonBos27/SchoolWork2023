@@ -1,0 +1,8 @@
+C:\Users\Hp\Desktop\TutorialsDsw3a\220153695_Bosenga_LabEx2\BigDataApplication\bin\Debug\BigDataApplication.exe.config
+C:\Users\Hp\Desktop\TutorialsDsw3a\220153695_Bosenga_LabEx2\BigDataApplication\bin\Debug\BigDataApplication.exe
+C:\Users\Hp\Desktop\TutorialsDsw3a\220153695_Bosenga_LabEx2\BigDataApplication\bin\Debug\BigDataApplication.pdb
+C:\Users\Hp\Desktop\TutorialsDsw3a\220153695_Bosenga_LabEx2\BigDataApplication\obj\Debug\BigDataApplication.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\TutorialsDsw3a\220153695_Bosenga_LabEx2\BigDataApplication\obj\Debug\BigDataApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\Desktop\TutorialsDsw3a\220153695_Bosenga_LabEx2\BigDataApplication\obj\Debug\BigDataApplication.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\TutorialsDsw3a\220153695_Bosenga_LabEx2\BigDataApplication\obj\Debug\BigDataApplication.exe
+C:\Users\Hp\Desktop\TutorialsDsw3a\220153695_Bosenga_LabEx2\BigDataApplication\obj\Debug\BigDataApplication.pdb

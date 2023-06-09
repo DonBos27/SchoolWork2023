@@ -1,0 +1,11 @@
+C:\Users\Hp\Desktop\TutorialsDsw3a\220153695_Bosenga_LabEx2\UJExamPortalSystem\bin\Debug\UJExamPortalSystem.exe.config
+C:\Users\Hp\Desktop\TutorialsDsw3a\220153695_Bosenga_LabEx2\UJExamPortalSystem\bin\Debug\UJExamPortalSystem.exe
+C:\Users\Hp\Desktop\TutorialsDsw3a\220153695_Bosenga_LabEx2\UJExamPortalSystem\bin\Debug\UJExamPortalSystem.pdb
+C:\Users\Hp\Desktop\TutorialsDsw3a\220153695_Bosenga_LabEx2\UJExamPortalSystem\obj\Debug\UJExamPortalSystem.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\TutorialsDsw3a\220153695_Bosenga_LabEx2\UJExamPortalSystem\obj\Debug\UJExamPortalSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\Desktop\TutorialsDsw3a\220153695_Bosenga_LabEx2\UJExamPortalSystem\obj\Debug\UJExamPortalSystem.Form1.resources
+C:\Users\Hp\Desktop\TutorialsDsw3a\220153695_Bosenga_LabEx2\UJExamPortalSystem\obj\Debug\UJExamPortalSystem.Properties.Resources.resources
+C:\Users\Hp\Desktop\TutorialsDsw3a\220153695_Bosenga_LabEx2\UJExamPortalSystem\obj\Debug\UJExamPortalSystem.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\TutorialsDsw3a\220153695_Bosenga_LabEx2\UJExamPortalSystem\obj\Debug\UJExamPortalSystem.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\TutorialsDsw3a\220153695_Bosenga_LabEx2\UJExamPortalSystem\obj\Debug\UJExamPortalSystem.exe
+C:\Users\Hp\Desktop\TutorialsDsw3a\220153695_Bosenga_LabEx2\UJExamPortalSystem\obj\Debug\UJExamPortalSystem.pdb

@@ -1,0 +1,8 @@
+C:\Users\Hp\Desktop\TutorialsDsw3a\220153695_Bosenga_TUT2\TUT2_Question3\bin\Debug\TUT2_Question3.exe.config
+C:\Users\Hp\Desktop\TutorialsDsw3a\220153695_Bosenga_TUT2\TUT2_Question3\bin\Debug\TUT2_Question3.exe
+C:\Users\Hp\Desktop\TutorialsDsw3a\220153695_Bosenga_TUT2\TUT2_Question3\bin\Debug\TUT2_Question3.pdb
+C:\Users\Hp\Desktop\TutorialsDsw3a\220153695_Bosenga_TUT2\TUT2_Question3\obj\Debug\TUT2_Question3.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\TutorialsDsw3a\220153695_Bosenga_TUT2\TUT2_Question3\obj\Debug\TUT2_Question3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\Desktop\TutorialsDsw3a\220153695_Bosenga_TUT2\TUT2_Question3\obj\Debug\TUT2_Question3.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\TutorialsDsw3a\220153695_Bosenga_TUT2\TUT2_Question3\obj\Debug\TUT2_Question3.exe
+C:\Users\Hp\Desktop\TutorialsDsw3a\220153695_Bosenga_TUT2\TUT2_Question3\obj\Debug\TUT2_Question3.pdb

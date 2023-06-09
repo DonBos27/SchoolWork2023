@@ -1,0 +1,57 @@
+START (When you are starting to write your algo)
+READ (when we are prompting the user)
+DISPLAY(print)
+SET (Assign variable with value)
+STOP(when you end the program)
+
+
+Question : 
+1.calculate the average of two numbers
+
+1.START
+2.READ Fnumbers
+3.READ Snumbers
+4.SET MYSum = Fnumbers + Snumbers
+4.SET myAverage = MYSum/2
+5.DISPLAY myAverage
+6.STOP
+
+START
+   Input fNumbers
+   Input Snumbers
+   Set sum = fNumbers + Snumbers
+   set average = sum/2
+   Output average
+STOP
+------------------------------------------------------------------
+2.calculate the square of a number
+
+1.START
+2.READ numbers
+3.SET square = numbers * numbers
+4.DISPLAY square
+5.STOP
+
+------------------------------------------------------------------
+3.Reads two numbers and determines the largest of the two.
+
+1.START
+2.READ num1
+3.READ num2
+4.IF num1>num2 THEN
+	4.1 DISPLAY num1
+5.ELSE 
+	5.1 DISPLAY num2
+6.END IF
+7.STOP
+--------------------------------------------------------------------
+4.calculates the absolute of a value
+
+1.START
+2.READ num 
+3.IF num > 0 THEN
+	3.1 DISPLAY num
+4.ELSE 
+	4.1 DISPLAY -(num) #-(-5) = +5
+5.END IF
+6.STOP

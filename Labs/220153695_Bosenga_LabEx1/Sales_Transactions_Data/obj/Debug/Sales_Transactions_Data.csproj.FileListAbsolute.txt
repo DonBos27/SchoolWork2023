@@ -1,0 +1,11 @@
+C:\Users\Hp\Desktop\TutorialsDsw3a\Sales_Transactions_Data\bin\Debug\Sales_Transactions_Data.exe.config
+C:\Users\Hp\Desktop\TutorialsDsw3a\Sales_Transactions_Data\bin\Debug\Sales_Transactions_Data.exe
+C:\Users\Hp\Desktop\TutorialsDsw3a\Sales_Transactions_Data\bin\Debug\Sales_Transactions_Data.pdb
+C:\Users\Hp\Desktop\TutorialsDsw3a\Sales_Transactions_Data\obj\Debug\Sales_Transactions_Data.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\TutorialsDsw3a\Sales_Transactions_Data\obj\Debug\Sales_Transactions_Data.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\Desktop\TutorialsDsw3a\Sales_Transactions_Data\obj\Debug\Sales_Transactions_Data.Form1.resources
+C:\Users\Hp\Desktop\TutorialsDsw3a\Sales_Transactions_Data\obj\Debug\Sales_Transactions_Data.Properties.Resources.resources
+C:\Users\Hp\Desktop\TutorialsDsw3a\Sales_Transactions_Data\obj\Debug\Sales_Transactions_Data.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\TutorialsDsw3a\Sales_Transactions_Data\obj\Debug\Sales_Transactions_Data.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\TutorialsDsw3a\Sales_Transactions_Data\obj\Debug\Sales_Transactions_Data.exe
+C:\Users\Hp\Desktop\TutorialsDsw3a\Sales_Transactions_Data\obj\Debug\Sales_Transactions_Data.pdb
